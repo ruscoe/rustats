@@ -11,6 +11,6 @@ First, clone the git repo:
 Then run:
 
 ```bash
-cd rstats
+cd rustats
 cargo run
 ```
